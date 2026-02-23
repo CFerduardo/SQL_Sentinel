@@ -1,0 +1,5 @@
+pyodbc
+schedule
+requests
+loguru
+python-dotenv
