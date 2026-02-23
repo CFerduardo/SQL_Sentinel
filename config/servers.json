@@ -1,0 +1,6 @@
+[
+    {"name_headquarters":"Local Test Server",      "SERVER":"localhost",     "USER":"SQL_USER",   "PASS":"SQL_PASS"},
+    {"name_headquarters":"Local Test Server 2",    "SERVER":"localhost",     "USER":"SQL_USER",   "PASS":"SQL_PASS"}
+]
+
+
