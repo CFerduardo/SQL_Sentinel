@@ -21,6 +21,7 @@ It's designed to centrally monitor the physical health of multiple **SQL Server*
 
 
 ## Project structure
+```text
 SQL-Sentinel/
 ├── config/
 │   ├── servers.json      # List of server connections
